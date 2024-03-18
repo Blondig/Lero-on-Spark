@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/spark-network-yarn_2.12-3.3.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/network[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache/spark/network[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/network/yarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache/spark/network/yarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/network/yarn/YarnShuffleService$AppId.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache/spark/network/yarn/YarnShuffleService$AppId.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/network/yarn/YarnShuffleServiceMetrics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache/spark/network/yarn/YarnShuffleServiceMetrics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/network/yarn/util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache/spark/network/yarn/util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/network/yarn/util/HadoopConfigProvider.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache/spark/network/yarn/util/HadoopConfigProvider.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/network/yarn/YarnShuffleServiceMetrics$ShuffleServiceMetricsInfo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache/spark/network/yarn/YarnShuffleServiceMetrics$ShuffleServiceMetricsInfo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/network/yarn/YarnShuffleService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes/org/apache/spark/network/yarn/YarnShuffleService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

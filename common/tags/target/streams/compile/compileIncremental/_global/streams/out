@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 10 products, 10 sources, 1 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/common/tags/src/main/scala/org/apache/spark/annotation/Since.scala, ${BASE}/common/tags/src/main/java/org/apache/spark/annotation/Stable.java, ${BASE}/common/tags/src/main/java/org/apache/spark/annotation/Experimental.java, ${BASE}/common/tags/src/main/java/org/apache/spark/annotation/Private.java, ${BASE}/common/tags/src/main/java/org/apache/spark/annotation/Unstable.java, ${BASE}/common/tags/src/main/java/org/apache/spark/annotation/DeveloperApi.java, ${BASE}/common/tags/src/main/scala/org/apache/spark/annotation/package.scala, ${BASE}/common/tags/src/main/java/org/apache/spark/annotation/Evolving.java, ${BASE}/common/tags/src/main/scala/org/apache/spark/annotation/package-info.java, ${BASE}/common/tags/src/main/java/org/apache/spark/annotation/AlphaComponent.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m

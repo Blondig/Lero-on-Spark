@@ -1,0 +1,19 @@
+package org.apache.spark.sql.catalyst.expressions;
+public  class MakeYMInterval extends org.apache.spark.sql.catalyst.expressions.BinaryExpression implements org.apache.spark.sql.catalyst.expressions.ImplicitCastInputTypes, org.apache.spark.sql.catalyst.expressions.NullIntolerant, scala.Serializable, scala.Product {
+  static public abstract  R apply (T1 v1, T2 v2)  ;
+  static public  java.lang.String toString ()  { throw new RuntimeException(); }
+  public  org.apache.spark.sql.catalyst.expressions.Expression years ()  { throw new RuntimeException(); }
+  public  org.apache.spark.sql.catalyst.expressions.Expression months ()  { throw new RuntimeException(); }
+  // not preceding
+  public   MakeYMInterval (org.apache.spark.sql.catalyst.expressions.Expression years, org.apache.spark.sql.catalyst.expressions.Expression months)  { throw new RuntimeException(); }
+  public   MakeYMInterval (org.apache.spark.sql.catalyst.expressions.Expression years)  { throw new RuntimeException(); }
+  public   MakeYMInterval ()  { throw new RuntimeException(); }
+  public  org.apache.spark.sql.catalyst.expressions.Expression left ()  { throw new RuntimeException(); }
+  public  org.apache.spark.sql.catalyst.expressions.Expression right ()  { throw new RuntimeException(); }
+  public  scala.collection.Seq<org.apache.spark.sql.types.AbstractDataType> inputTypes ()  { throw new RuntimeException(); }
+  public  org.apache.spark.sql.types.DataType dataType ()  { throw new RuntimeException(); }
+  public  Object nullSafeEval (Object year, Object month)  { throw new RuntimeException(); }
+  public  org.apache.spark.sql.catalyst.expressions.codegen.ExprCode doGenCode (org.apache.spark.sql.catalyst.expressions.codegen.CodegenContext ctx, org.apache.spark.sql.catalyst.expressions.codegen.ExprCode ev)  { throw new RuntimeException(); }
+  public  java.lang.String prettyName ()  { throw new RuntimeException(); }
+  protected  org.apache.spark.sql.catalyst.expressions.Expression withNewChildrenInternal (org.apache.spark.sql.catalyst.expressions.Expression newLeft, org.apache.spark.sql.catalyst.expressions.Expression newRight)  { throw new RuntimeException(); }
+}

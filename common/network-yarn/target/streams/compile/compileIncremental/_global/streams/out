@@ -1,0 +1,56 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 5 products, 3 sources, 7 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/common/network-yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java, ${BASE}/common/network-yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleServiceMetrics.java, ${BASE}/common/network-yarn/src/main/java/org/apache/spark/network/yarn/util/HadoopConfigProvider.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating '${CSR_CACHE}/https/repo1.maven.org/maven2/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar' because org.iq80.leveldb.DBIterator is now provided by ${CSR_CACHE}/https/maven-central.storage-download.googleapis.com/maven2/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating '${CSR_CACHE}/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar' because org.apache.commons.lang3.builder.ToStringBuilder is now provided by ${CSR_CACHE}/https/maven-central.storage-download.googleapis.com/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(${CSR_CACHE}/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar),API Changes: Set(NamesChange(org.apache.spark.network.util.LevelDBProvider$StoreVersion,ModifiedNames(changes = UsedName(org;apache;spark;network;util;LevelDBProvider$StoreVersion;init;,[Default])))))[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe org.apache.spark.network.util.LevelDBProvider$StoreVersion has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(org;apache;spark;network;util;LevelDBProvider$StoreVersion;init;,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) org.apache.spark.network.util.LevelDBProvider$StoreVersion: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNow invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) org.apache.spark.network.util.LevelDBProvider$StoreVersion.[0m
+[0m[[0m[0mdebug[0m] [0m[0mName hashing optimization doesn't apply to non-Scala dependency: org.apache.spark.network.yarn.YarnShuffleService[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set(NamesChange(org.apache.spark.network.util.LevelDBProvider$StoreVersion,ModifiedNames(changes = UsedName(org;apache;spark;network;util;LevelDBProvider$StoreVersion;init;,[Default]))))[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(${CSR_CACHE}/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(${BASE}/common/network-yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set(org.apache.spark.network.yarn.YarnShuffleService)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(org.apache.spark.network.yarn.YarnShuffleService)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/common/network-yarn/src/main/java/org/apache/spark/network/yarn/YarnShuffleService.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: org.apache.spark.network.yarn.YarnShuffleService, org.apache.spark.network.yarn.YarnShuffleService.AppId[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Java source to /apsarapangu/disk3/spark/spark-3.3.0/common/network-yarn/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.756904843 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.043250813 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.80276516 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from org.apache.spark.network.yarn.YarnShuffleService.AppId...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: org.apache.spark.network.yarn.YarnShuffleService.AppId[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(org.apache.spark.network.yarn.YarnShuffleService.AppId)[0m
+[0m[[0m[0mdebug[0m] [0m[0mName hashing optimization doesn't apply to non-Scala dependency: org.apache.spark.network.yarn.YarnShuffleService[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(org.apache.spark.network.yarn.YarnShuffleService.AppId,ModifiedNames(changes = UsedName(org;apache;spark;network;yarn;YarnShuffleService$AppId;init;,[Default]))) invalidates 2 classes due to The org.apache.spark.network.yarn.YarnShuffleService.AppId has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(org;apache;spark;network;yarn;YarnShuffleService$AppId;init;,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > by transitive inheritance: Set(org.apache.spark.network.yarn.YarnShuffleService.AppId)[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > [0m
+[0m[[0m[0mdebug[0m] [0m[0m  > by member reference: Set(org.apache.spark.network.yarn.YarnShuffleService)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.apache.spark.network.yarn.YarnShuffleService[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: org.apache.spark.network.yarn.YarnShuffleService[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding org.apache.spark.network.yarn.YarnShuffleService.AppId by org.apache.spark.network.yarn.YarnShuffleService[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org.apache.spark.network.yarn.YarnShuffleService.AppId[0m
+[0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set(org.apache.spark.network.yarn.YarnShuffleService, org.apache.spark.network.yarn.YarnShuffleService.AppId)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m

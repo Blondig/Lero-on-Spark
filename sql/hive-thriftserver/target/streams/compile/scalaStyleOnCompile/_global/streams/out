@@ -1,0 +1,62 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /apsarapangu/disk3/spark/spark-3.3.0/scalastyle-on-compile.generated.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/HiveThriftServer2.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/HiveThriftServer2.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetFunctionsOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetFunctionsOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetSchemasOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetSchemasOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkExecuteStatementOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkExecuteStatementOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ReflectionUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ReflectionUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLCLIService.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLCLIService.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/ThriftServerSessionPage.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/ThriftServerSessionPage.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/ToolTips.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/ToolTips.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/HiveThriftServer2EventManager.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/HiveThriftServer2EventManager.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/ThriftServerTab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/ThriftServerTab.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/HiveThriftServer2AppStatusStore.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/HiveThriftServer2AppStatusStore.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/HiveThriftServer2HistoryServerPlugin.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/HiveThriftServer2HistoryServerPlugin.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/ThriftServerPage.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/ThriftServerPage.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/HiveThriftServer2Listener.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/ui/HiveThriftServer2Listener.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/FetchIterator.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/FetchIterator.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLCLIDriver.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLCLIDriver.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetColumnsOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetColumnsOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/server/SparkSQLOperationManager.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/server/SparkSQLOperationManager.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLDriver.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLDriver.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetCatalogsOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetCatalogsOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetTypeInfoOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetTypeInfoOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLSessionManager.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLSessionManager.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetTableTypesOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetTableTypesOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetTablesOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkGetTablesOperation.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLEnv.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/SparkSQLEnv.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/HiveThriftServerErrors.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/scala/org/apache/spark/sql/hive/thriftserver/HiveThriftServerErrors.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 27 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 5 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/target[0m

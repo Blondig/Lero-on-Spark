@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /apsarapangu/disk3/spark/spark-3.3.0/tools/target/scala-2.12/spark-tools_2.12-3.3.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/tools/target/scala-2.12/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/tools/target/scala-2.12/classes/org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/tools/target/scala-2.12/classes/org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/tools[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/tools/target/scala-2.12/classes/org/apache/spark/tools[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/tools/GenerateMIMAIgnore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/tools/target/scala-2.12/classes/org/apache/spark/tools/GenerateMIMAIgnore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/tools/GenerateMIMAIgnore$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/tools/target/scala-2.12/classes/org/apache/spark/tools/GenerateMIMAIgnore$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

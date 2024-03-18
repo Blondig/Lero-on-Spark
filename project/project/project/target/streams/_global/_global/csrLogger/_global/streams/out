@@ -1,0 +1,16 @@
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.5.3/sbt-bloop-1.5.3.pom
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.5.3/bloop-config_2.12-1.5.3.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.15/scala-library-2.12.15.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.4.0/jsoniter-scala-core_2.12-2.4.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.15/scala-compiler-2.12.15.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.15/scala-reflect-2.12.15.pom
+[debug] downloaded https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.5.3/sbt-bloop-1.5.3.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.4.0/jsoniter-scala-core_2.12-2.4.0.jar
+[debug] downloaded https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+[debug] downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.5.3/bloop-config_2.12-1.5.3.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.15/scala-library-2.12.15.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.15/scala-reflect-2.12.15.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.15/scala-compiler-2.12.15.jar

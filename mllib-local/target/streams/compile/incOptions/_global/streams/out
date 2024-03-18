@@ -1,0 +1,65 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /apsarapangu/disk3/spark/spark-3.3.0/mllib-local/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vectors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Matrices.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseMatrix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseVector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseVector$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BLAS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Matrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseVector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vectors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MultivariateGaussian.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseVector$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseMatrix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BLAS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseVector$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Matrices$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vectors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Matrices.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseMatrix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseVector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseVector$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BLAS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Matrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseVector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vectors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MultivariateGaussian.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseVector$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseMatrix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BLAS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseVector$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Matrices$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vectors$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Matrices.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseMatrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseMatrix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseVector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseVector$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BLAS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Matrix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseVector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Vectors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MultivariateGaussian.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseVector$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparseMatrix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BLAS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DenseVector$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Matrices$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /apsarapangu/disk3/spark/spark-3.3.0/mllib-local/target/scala-2.12/classes.bak[0m

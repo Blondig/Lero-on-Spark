@@ -1,0 +1,15 @@
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/sql/catalyst/src/main/java/org/apache/spark/sql/connector/catalog/SupportsAtomicPartitionManagement.java:55:1:  [unchecked] unchecked method invocation: method createPartitions in interface SupportsAtomicPartitionManagement is applied to given types[0m
+[0m[[0m[33mwarn[0m] [0m[0m      createPartitions(new InternalRow[]{ident}, new Map[]{properties});[0m
+[0m[[0m[33mwarn[0m] [0m[0m                      ^  required: InternalRow[],Map<String,String>[][0m
+[0m[[0m[33mwarn[0m] [0m[0m  found: InternalRow[],Map[][0m
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/sql/catalyst/src/main/java/org/apache/spark/sql/connector/catalog/SupportsAtomicPartitionManagement.java:55:1:  [unchecked] unchecked conversion[0m
+[0m[[0m[33mwarn[0m] [0m[0m      createPartitions(new InternalRow[]{ident}, new Map[]{properties});[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                 ^  required: Map<String,String>[][0m
+[0m[[0m[33mwarn[0m] [0m[0m  found:    Map[][0m
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/sql/catalyst/src/main/java/org/apache/spark/sql/util/NumericHistogram.java:190:1:  [unchecked] unchecked method invocation: method sort in class Collections is applied to given types[0m
+[0m[[0m[33mwarn[0m] [0m[0m      Collections.sort(tmp_bins);[0m
+[0m[[0m[33mwarn[0m] [0m[0m                      ^  required: List<T>[0m
+[0m[[0m[33mwarn[0m] [0m[0m  found: ArrayList<Coord>[0m
+[0m[[0m[33mwarn[0m] [0m[0m  where T is a type-variable:[0m
+[0m[[0m[33mwarn[0m] [0m[0m    T extends Comparable<? super T> declared in method <T>sort(List<T>)[0m
+[0m[[0m[33mwarn[0m] [0m[0m3 warnings[0m

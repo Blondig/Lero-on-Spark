@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/spark-sketch_2.12-3.3.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/BloomFilterImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/BloomFilterImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/CountMinSketchImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/CountMinSketchImpl.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/CountMinSketch$Version.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/CountMinSketch$Version.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/IncompatibleMergeException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/IncompatibleMergeException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/BitArray.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/BitArray.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/Murmur3_x86_32.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/Murmur3_x86_32.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/BloomFilter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/BloomFilter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/CountMinSketch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/CountMinSketch.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/BloomFilter$Version.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/BloomFilter$Version.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/util/sketch/Platform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/sketch/target/scala-2.12/classes/org/apache/spark/util/sketch/Platform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

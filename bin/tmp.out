@@ -1,0 +1,115 @@
+22/07/29 14:07:42 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+22/07/29 14:07:47 WARN Client: Neither spark.yarn.jars nor spark.yarn.archive is set, falling back to uploading libraries under SPARK_HOME.
+Spark context Web UI available at http://k69d11267.eu95sqa:4040
+Spark context available as 'sc' (master = yarn, app id = application_1658822443457_0008).
+Spark session available as 'spark'.
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /___/ .__/\_,_/_/ /_/\_\   version 3.3.0
+      /_/
+         
+Using Scala version 2.12.15 (Java HotSpot(TM) 64-Bit Server VM, Java 1.8.0_333)
+Type in expressions to have them evaluated.
+Type :help for more information.
+
+scala> show[K[K[K[Kspark.sql()")")s")[2Dh")[2Do")[2Dw")[2D ")[2Dt")[2Da")[2Db")[2Dl")[2Ds")[2De")[2D")[K[2D")[K[2De")[2Ds")[2D[C[C
+res0: org.apache.spark.sql.DataFrame = [namespace: string, tableName: string ... 1 more field]
+
+scala> spark.sql("show tables"),[K.sjow()ow()[K[4Dhow()[4D[C[C[C[C
++---------+-----------+-----------+
+|namespace|  tableName|isTemporary|
++---------+-----------+-----------+
+|  default|     badges|      false|
+|  default|   comments|      false|
+|  default|posthistory|      false|
+|  default|  postlinks|      false|
+|  default|      posts|      false|
+|  default|       tags|      false|
+|  default|      users|      false|
+|  default|      votes|      false|
++---------+-----------+-----------+
+
+
+scala> spark.sql("show tables").show()[C[C[C[C[C)[K[C[K").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7Db").show[7Da").show[7Dd").show[7Dg").show[7De").show[7Ds").show[7DDbadges").show[13DEbadges").show[13DSbadges").show[13DCbadges").show[13D badges").show[13DEbadges").show[13DXbadges").show[13DTbadges").show[13DEbadges").show[13DNbadges").show[13DDbadges").show[13DEbadges").show[13DDbadges").show[13D badges").show[13D[C[C[C[C[C[C ").show[7DI").show[7Dd").show[7D[7C
++--------------+----------+
+|     info_name|info_value|
++--------------+----------+
+|      col_name|        Id|
+|     data_type|       int|
+|       comment|      NULL|
+|           min|      NULL|
+|           max|      NULL|
+|     num_nulls|      NULL|
+|distinct_count|      NULL|
+|   avg_col_len|      NULL|
+|   max_col_len|      NULL|
+|     histogram|      NULL|
++--------------+----------+
+
+
+scala> spark.sql("DESC EXTENDED badges Id").show[C").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7D").show[K[7DA").show[7DN").show[7DA").show[7DL").show[7DY").show[7DZ").show[7DE").show[7D ").show[7DR").show[7DT").show[7D").show[K[7D").show[K[7DT").show[7DA").show[7DB").show[7DL").show[7DE").show[7D ").show[7Du").show[7Ds").show[7De").show[7Dr").show[7Ds").show[7D[C[C[C[C[C[C[C
+org.apache.spark.sql.catalyst.parser.ParseException:
+Syntax error at or near end of input(line 1, pos 19)
+
+== SQL ==
+ANALYZE TABLE users
+-------------------^^^
+
+  at org.apache.spark.sql.catalyst.parser.ParseException.withCommand(ParseDriver.scala:306)
+  at org.apache.spark.sql.catalyst.parser.AbstractSqlParser.parse(ParseDriver.scala:143)
+  at org.apache.spark.sql.execution.SparkSqlParser.parse(SparkSqlParser.scala:52)
+  at org.apache.spark.sql.catalyst.parser.AbstractSqlParser.parsePlan(ParseDriver.scala:89)
+  at org.apache.spark.sql.SparkSession.$anonfun$sql$2(SparkSession.scala:620)
+  at org.apache.spark.sql.catalyst.QueryPlanningTracker.measurePhase(QueryPlanningTracker.scala:111)
+  at org.apache.spark.sql.SparkSession.$anonfun$sql$1(SparkSession.scala:620)
+  at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:779)
+  at org.apache.spark.sql.SparkSession.sql(SparkSession.scala:617)
+  ... 47 elided
+
+scala> spark.sql("ANALYZE TABLE users").show ").show[7Db").show[7D").show[K[7DC").show[7DO").show[7Dm").show[7D").show[K[7DN").show[7D").show[K[7DM").show[7DP").show[7DU").show[7DT").show[7DE").show[7D ").show[7DS").show[7DT").show[7DA").show[7DT").show[7DI").show[7DS").show[7DT").show[7DI").show[7DC").show[7DS").show[7D[C[C[C[C[C[C[C
+++
+||
+++
+++
+
+
+scala> spark.sql("ANALYZE TABLE users COMPUTE STATISTICS").show[26D[K").show[26D[KDESC EXTENDED badges Id").show Id").show[K[10D Id").show[K[10D Id").show[K[10D Id").show[K[10D Id").show[K[10D Id").show[K[10Du Id").show[10Ds Id").show[10De Id").show[10Dr Id").show[10Ds Id").show[10D[10C
++--------------+----------+
+|     info_name|info_value|
++--------------+----------+
+|      col_name|        Id|
+|     data_type|       int|
+|       comment|      NULL|
+|           min|      NULL|
+|           max|      NULL|
+|     num_nulls|      NULL|
+|distinct_count|      NULL|
+|   avg_col_len|      NULL|
+|   max_col_len|      NULL|
+|     histogram|      NULL|
++--------------+----------+
+
+
+scala> spark.sql("DESC EXTENDED users Id").show[27Dow[K[2D[KANALYZE TABLE users COMPUTE STATISTICS").show[45D[KDESC EXTENDED users Id").show[29D[KANALYZE TABLE users COMPUTE STATISTICS").show ").show[7DF").show[7DO").show[7DR").show[7D ").show[7DA").show[7DL").show[7DL").show[7D ").show[7DC").show[7DO").show[7DL").show[7DU").show[7DM").show[7DN").show[7DS").show[7D[C[C[C[C[C[C[C[K[K[K[K[K
+res6: org.apache.spark.sql.DataFrame = []
+
+scala> spark.sql("ANALYZE TABLE users COMPUTE STATISTICS FOR ALL COLUMNS")[56D[KDESC EXTENDED users Id").show
++--------------+----------+
+|     info_name|info_value|
++--------------+----------+
+|      col_name|        Id|
+|     data_type|       int|
+|       comment|      NULL|
+|           min|        -1|
+|           max|     55747|
+|     num_nulls|         0|
+|distinct_count|     34884|
+|   avg_col_len|         4|
+|   max_col_len|         4|
+|     histogram|      NULL|
++--------------+----------+
+
+
+scala> :q

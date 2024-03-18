@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/java/org/apache/spark/sql/avro/SparkAvroKeyOutputFormat.java:55:1:  [unchecked] unchecked call to SparkAvroKeyRecordWriter(Schema,GenericData,CodecFactory,OutputStream,int,Map<String,String>) as a member of the raw type SparkAvroKeyRecordWriter[0m
+[0m[[0m[33mwarn[0m] [0m[0m      return new SparkAvroKeyRecordWriter([0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/java/org/apache/spark/sql/avro/SparkAvroKeyOutputFormat.java:74:1:  [unchecked] unchecked call to DataFileWriter(DatumWriter<D>) as a member of the raw type DataFileWriter[0m
+[0m[[0m[33mwarn[0m] [0m[0m    this.mAvroFileWriter = new DataFileWriter(dataModel.createDatumWriter(writerSchema));[0m
+[0m[[0m[33mwarn[0m] [0m[0m                           ^  where D is a type-variable:[0m
+[0m[[0m[33mwarn[0m] [0m[0m    D extends Object declared in class DataFileWriter[0m

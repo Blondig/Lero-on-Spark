@@ -1,0 +1,2 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/src/main/resources/META-INF/services/org.apache.spark.status.AppHistoryServerPlugin,/apsarapangu/disk3/spark/spark-3.3.0/sql/hive-thriftserver/target/scala-2.12/classes/META-INF/services/org.apache.spark.status.AppHistoryServerPlugin)[0m

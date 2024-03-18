@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 39 products, 15 sources, 4 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/RocksDBTypeInfo.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/KVIndex.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/KVStore.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/InMemoryStore.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/KVStoreView.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/LevelDBTypeInfo.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/RocksDBIterator.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/LevelDB.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/RocksDB.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/LevelDBIterator.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/ArrayWrappers.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/KVStoreSerializer.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/UnsupportedStoreVersionException.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/KVStoreIterator.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/KVTypeInfo.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating '${CSR_CACHE}/https/repo1.maven.org/maven2/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar' because org.iq80.leveldb.DBIterator is now provided by ${CSR_CACHE}/https/maven-central.storage-download.googleapis.com/maven2/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating '${CSR_CACHE}/https/repo1.maven.org/maven2/org/rocksdb/rocksdbjni/6.20.3/rocksdbjni-6.20.3.jar' because org.rocksdb.RocksDB is now provided by ${CSR_CACHE}/https/maven-central.storage-download.googleapis.com/maven2/org/rocksdb/rocksdbjni/6.20.3/rocksdbjni-6.20.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(${CSR_CACHE}/https/repo1.maven.org/maven2/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/rocksdb/rocksdbjni/6.20.3/rocksdbjni-6.20.3.jar),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(${CSR_CACHE}/https/repo1.maven.org/maven2/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/rocksdb/rocksdbjni/6.20.3/rocksdbjni-6.20.3.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/RocksDBTypeInfo.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/LevelDBTypeInfo.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/RocksDBIterator.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/LevelDB.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/RocksDB.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/LevelDBIterator.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/RocksDBTypeInfo.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/LevelDBTypeInfo.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/RocksDBIterator.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/LevelDB.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/RocksDB.java, ${BASE}/common/kvstore/src/main/java/org/apache/spark/util/kvstore/LevelDBIterator.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 6 Java sources to /apsarapangu/disk3/spark/spark-3.3.0/common/kvstore/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 1.032251919 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.078075435 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 1.112554541 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m

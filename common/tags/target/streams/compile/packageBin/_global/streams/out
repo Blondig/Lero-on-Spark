@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/spark-tags_2.12-3.3.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/Evolving.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/Evolving.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/DeveloperApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/DeveloperApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/Unstable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/Unstable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/Stable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/Stable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/AlphaComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/AlphaComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/Private.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/Private.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/Experimental.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/Experimental.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/Since.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/Since.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/annotation/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/common/tags/target/scala-2.12/classes/org/apache/spark/annotation/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

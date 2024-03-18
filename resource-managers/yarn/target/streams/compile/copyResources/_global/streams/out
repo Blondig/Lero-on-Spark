@@ -1,0 +1,2 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/resource-managers/yarn/src/main/resources/META-INF/services/org.apache.spark.scheduler.ExternalClusterManager,/apsarapangu/disk3/spark/spark-3.3.0/resource-managers/yarn/target/scala-2.12/classes/META-INF/services/org.apache.spark.scheduler.ExternalClusterManager)[0m

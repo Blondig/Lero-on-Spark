@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/employees.json,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/employees.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/people.json,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/people.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/users.parquet,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/users.parquet)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/full_user.avsc,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/full_user.avsc)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/people.csv,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/people.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/users.orc,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/users.orc)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/users.avro,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/users.avro)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/kv1.txt,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/kv1.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/user.avsc,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/user.avsc)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/people.txt,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/people.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/dir1/file1.parquet,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/dir1/file1.parquet)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/dir1/file3.json,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/dir1/file3.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/META-INF/services/org.apache.spark.sql.SparkSessionExtensionsProvider,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/META-INF/services/org.apache.spark.sql.SparkSessionExtensionsProvider)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/META-INF/services/org.apache.spark.sql.jdbc.JdbcConnectionProvider,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/META-INF/services/org.apache.spark.sql.jdbc.JdbcConnectionProvider)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/apsarapangu/disk3/spark/spark-3.3.0/examples/src/main/resources/dir1/dir2/file2.parquet,/apsarapangu/disk3/spark/spark-3.3.0/examples/target/scala-2.12/classes/dir1/dir2/file2.parquet)[0m

@@ -1,0 +1,44 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /apsarapangu/disk3/spark/spark-3.3.0/scalastyle-on-compile.generated.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroScanBuilder.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroScanBuilder.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroWrite.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroWrite.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroScan.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroScan.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroTable.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroTable.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroPartitionReaderFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroPartitionReaderFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroDataSourceV2.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/v2/avro/AvroDataSourceV2.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroDeserializer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroDeserializer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroOptions.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroOptions.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/CatalystDataToAvro.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/CatalystDataToAvro.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroDataToCatalyst.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroDataToCatalyst.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/SchemaConverters.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/SchemaConverters.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroSerializer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroSerializer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroOutputWriterFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroOutputWriterFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/functions.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/functions.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroOutputWriter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroOutputWriter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroFileFormat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/avro/src/main/scala/org/apache/spark/sql/avro/AvroFileFormat.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 18 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 0 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /apsarapangu/disk3/spark/spark-3.3.0/external/avro/target[0m

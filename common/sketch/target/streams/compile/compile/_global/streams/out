@@ -1,0 +1,15 @@
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/common/sketch/src/main/java/org/apache/spark/util/sketch/Platform.java:22:1:  Unsafe is internal proprietary API and may be removed in a future release[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport sun.misc.Unsafe;[0m
+[0m[[0m[33mwarn[0m] [0m[0m               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/common/sketch/src/main/java/org/apache/spark/util/sketch/Platform.java:28:1:  Unsafe is internal proprietary API and may be removed in a future release[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private static final Unsafe _UNSAFE;[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/common/sketch/src/main/java/org/apache/spark/util/sketch/Platform.java:150:1:  Unsafe is internal proprietary API and may be removed in a future release[0m
+[0m[[0m[33mwarn[0m] [0m[0m    sun.misc.Unsafe unsafe;[0m
+[0m[[0m[33mwarn[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/common/sketch/src/main/java/org/apache/spark/util/sketch/Platform.java:152:1:  Unsafe is internal proprietary API and may be removed in a future release[0m
+[0m[[0m[33mwarn[0m] [0m[0m      Field unsafeField = Unsafe.class.getDeclaredField("theUnsafe");[0m
+[0m[[0m[33mwarn[0m] [0m[0m                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/apsarapangu/disk3/spark/spark-3.3.0/common/sketch/src/main/java/org/apache/spark/util/sketch/Platform.java:154:1:  Unsafe is internal proprietary API and may be removed in a future release[0m
+[0m[[0m[33mwarn[0m] [0m[0m      unsafe = (sun.misc.Unsafe) unsafeField.get(null);[0m
+[0m[[0m[33mwarn[0m] [0m[0m                        ^5 warnings[0m

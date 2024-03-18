@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/spark-repl_2.12-3.3.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/ConstructorCleaner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/ConstructorCleaner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/ExecutorClassLoader$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/ExecutorClassLoader$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/RemoteClassLoaderError.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/RemoteClassLoaderError.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/SparkILoop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/SparkILoop.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/ExecutorClassLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/ExecutorClassLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/Signaling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/Signaling.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/Signaling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/Signaling$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/apache/spark/repl/SparkILoop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /apsarapangu/disk3/spark/spark-3.3.0/repl/target/scala-2.12/classes/org/apache/spark/repl/SparkILoop$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

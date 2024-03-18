@@ -1,0 +1,28 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /apsarapangu/disk3/spark/spark-3.3.0/scalastyle-on-compile.generated.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/DirectKafkaInputDStream.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/DirectKafkaInputDStream.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/KafkaRDDPartition.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/KafkaRDDPartition.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/ConsumerStrategy.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/ConsumerStrategy.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/KafkaRDD.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/KafkaRDD.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/KafkaDataConsumer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/KafkaDataConsumer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/KafkaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/KafkaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/OffsetRange.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/OffsetRange.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/PerPartitionConfig.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/PerPartitionConfig.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/LocationStrategy.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/src/main/scala/org/apache/spark/streaming/kafka010/LocationStrategy.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 10 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 0 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /apsarapangu/disk3/spark/spark-3.3.0/external/kafka-0-10/target[0m

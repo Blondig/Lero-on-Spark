@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="/apsarapangu/disk3/spark/spark-3.3.0/sql/core/target/tmp"/>
+</target>
+</project>

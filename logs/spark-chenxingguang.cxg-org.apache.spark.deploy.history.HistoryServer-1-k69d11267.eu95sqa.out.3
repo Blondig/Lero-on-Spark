@@ -1,0 +1,38 @@
+Spark Command: /apsarapangu/disk3/spark/jdk1.8.0_333/bin/java -cp /apsarapangu/disk3/spark/spark-3.3.0/conf/:/apsarapangu/disk3/spark/spark-3.3.0/assembly/target/scala-2.12/jars/*:/apsarapangu/disk3/spark/hadoop-3.3.3/etc/hadoop/ -Dspark.history.retainedApplications=15 -Xmx1g org.apache.spark.deploy.history.HistoryServer
+========================================
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+22/08/24 15:13:04 INFO HistoryServer: Started daemon with process name: 17475@k69d11267.eu95sqa
+22/08/24 15:13:04 INFO SignalUtils: Registering signal handler for TERM
+22/08/24 15:13:04 INFO SignalUtils: Registering signal handler for HUP
+22/08/24 15:13:04 INFO SignalUtils: Registering signal handler for INT
+22/08/24 15:13:05 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+22/08/24 15:13:05 INFO SecurityManager: Changing view acls to: chenxingguang.cxg
+22/08/24 15:13:05 INFO SecurityManager: Changing modify acls to: chenxingguang.cxg
+22/08/24 15:13:05 INFO SecurityManager: Changing view acls groups to: 
+22/08/24 15:13:05 INFO SecurityManager: Changing modify acls groups to: 
+22/08/24 15:13:05 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(chenxingguang.cxg); groups with view permissions: Set(); users  with modify permissions: Set(chenxingguang.cxg); groups with modify permissions: Set()
+22/08/24 15:13:05 INFO FsHistoryProvider: History server ui acls disabled; users with admin permissions: ; groups with admin permissions: 
+22/08/24 15:13:05 INFO log: Logging initialized @5144ms to org.eclipse.jetty.util.log.Slf4jLog
+22/08/24 15:13:06 INFO Server: jetty-9.4.46.v20220331; built: 2022-03-31T16:38:08.030Z; git: bc17a0369a11ecf40bb92c839b9ef0a8ac50ea18; jvm 1.8.0_333-b02
+22/08/24 15:13:06 INFO Server: Started @5359ms
+22/08/24 15:13:06 INFO AbstractConnector: Started ServerConnector@74c5d85d{HTTP/1.1, (http/1.1)}{0.0.0.0:18080}
+22/08/24 15:13:06 INFO Utils: Successfully started service 'HistoryServerUI' on port 18080.
+22/08/24 15:13:06 INFO ContextHandler: Started o.e.j.s.ServletContextHandler@1133ec6e{/,null,AVAILABLE,@Spark}
+22/08/24 15:13:06 INFO ContextHandler: Started o.e.j.s.ServletContextHandler@e6516e{/json,null,AVAILABLE,@Spark}
+22/08/24 15:13:06 INFO ContextHandler: Started o.e.j.s.ServletContextHandler@43ed0ff3{/api,null,AVAILABLE,@Spark}
+22/08/24 15:13:06 INFO ContextHandler: Started o.e.j.s.ServletContextHandler@2e5c7f0b{/static,null,AVAILABLE,@Spark}
+22/08/24 15:13:06 INFO ContextHandler: Started o.e.j.s.ServletContextHandler@3591009c{/history,null,AVAILABLE,@Spark}
+22/08/24 15:13:06 INFO HistoryServer: Bound HistoryServer to 0.0.0.0, and started at http://k69d11267.eu95sqa:18080
+Exception in thread "main" java.io.FileNotFoundException: Log directory specified does not exist: file:/tmp/spark-events Did you configure the correct one through spark.history.fs.logDirectory?
+	at org.apache.spark.deploy.history.FsHistoryProvider.startPolling(FsHistoryProvider.scala:299)
+	at org.apache.spark.deploy.history.FsHistoryProvider.initialize(FsHistoryProvider.scala:244)
+	at org.apache.spark.deploy.history.FsHistoryProvider.start(FsHistoryProvider.scala:421)
+	at org.apache.spark.deploy.history.HistoryServer$.main(HistoryServer.scala:311)
+	at org.apache.spark.deploy.history.HistoryServer.main(HistoryServer.scala)
+Caused by: java.io.FileNotFoundException: File file:/tmp/spark-events does not exist
+	at org.apache.hadoop.fs.RawLocalFileSystem.deprecatedGetFileStatus(RawLocalFileSystem.java:779)
+	at org.apache.hadoop.fs.RawLocalFileSystem.getFileLinkStatusInternal(RawLocalFileSystem.java:1100)
+	at org.apache.hadoop.fs.RawLocalFileSystem.getFileStatus(RawLocalFileSystem.java:769)
+	at org.apache.hadoop.fs.FilterFileSystem.getFileStatus(FilterFileSystem.java:462)
+	at org.apache.spark.deploy.history.FsHistoryProvider.startPolling(FsHistoryProvider.scala:289)
+	... 4 more
