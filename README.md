@@ -12,12 +12,16 @@ This demonstration is built upon a customized version of Spark SQL 3.3.0, incorp
 
 This related file is `./sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/statsEstimation/LogicalPlanStats.scala`.
 
-In this file, we count the number of tables in a plan tree, which helps target the group of sub-queries to vary the cardinality estimation. Based on the swing factor $f$, we tune the caridinality in stats cache, which is used in CostBasedJoinReorder.
+In this file, for the strategy based on sub-query grouping, we count the number of tables in a plan tree, which helps target the group of sub-queries to vary the cardinality estimation. For the strategy based on single sub-query, we collect encountered sub-queries with a `Seq` for the later iteration. Based on the swing factor $f$, we tune the caridinality in stats cache, which is used in CostBasedJoinReorder.
 
 ### JoinEstimation
 
 The related file is `./sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/statsEstimation/JoinEstimation.scala`, which should be revised accordingly
 so that only the caridnality of the specific sub-query is tuned.
+
+### SQLConf
+
+The file provides configures of Spark SQL is `.sql/catalyst/src/main/scala/org/apache/spark/sql/internal/SQLConf.scala`. To adopt Lero, we add variables such as `VARY_CARD_ENABLE` and `VARY_CARD_SINGLE_ENABLED` and functions such as `varyCardEnabled` and `varyCardSingleEnabled` to tune the cardinality of the sub-query.
 
 ## Building Spark
 
@@ -40,7 +44,7 @@ We use the easiest way to start using Spark, i.e., through the Scala shell:
 
 You should prepare the SQL queries following the criterion of Spark SQL. The sample queries are provided in `./sample_queries.scala`.
 
-After that, run the script in `./main.scala` using Scala shell to generate candidate plans. It is required to indicate the specific database. Comment `planDF.show()` if you only need to generate candidate plans without collecting the true query execution time.
+After that, run the script in `./main_sub_query_grouping.scala` or `./main_single_sub_query.scala` using Scala shell to generate candidate plans. It is required to indicate the specific database. Comment `planDF.show()` if you only need to generate candidate plans without collecting the true query execution time.
 
 ## Use Comparator Model
 

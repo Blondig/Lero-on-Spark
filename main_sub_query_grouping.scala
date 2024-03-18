@@ -43,7 +43,7 @@ spark.conf.get("spark.sql.join.preferSortMergeJoin")
 // query list
 val queryList = List(q1, q2, q3, q4, q5, q6, q7, q8, q9, q10)
 
-val fileName = "stats10Level1007TestOthersQ136"
+val fileName = "stats10Level"
 val prefix = ""
 val fs = FileSystem.get(sc.hadoopConfiguration)
 val outputDataset = fs.create(new Path(prefix+ "/text/" + fileName + "Dataset"))
